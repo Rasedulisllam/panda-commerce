@@ -1,0 +1,16 @@
+.nav-bg{
+    background-color:#f8f9fa;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+.panda-bg-info{
+    background-color: #fceae9;
+}
+.contact-item{
+    padding:5rem;
+}
